@@ -30,12 +30,17 @@ Dataset: [Download Here]( )
 - Identified three control stores for trial stores 77, 86, and 88 respectively.
 - Analyzed the paired trial and control stores, as well as another store during pre-trial and trial periods based on the following metrics: "Total sales revenue", "Total number of customers" and "Average number of transactions per customer"
 
-
+![Screenshot 2024-05-27 205335](https://github.com/Suifengyuan78/Data-Analytics/assets/167149285/b08ee0d9-8b42-45fe-8a46-07ca4e275855)
 
 
 
 ### Part 3 Analytics and commercial application
 - Overall, the revenue of all trial stores increased. Stores 77 and 88 saw significant increases. Store 86 experienced a slight increase.
+
+![Screenshot 2024-05-27 205836](https://github.com/Suifengyuan78/Data-Analytics/assets/167149285/3e75b9d6-0076-4b7c-8de9-f79f41fdc1f3)
+
+
+![Screenshot 2024-05-27 210445](https://github.com/Suifengyuan78/Data-Analytics/assets/167149285/80aef26a-735d-4edf-8cc4-87159df7ef47)
 
 
 
