@@ -20,11 +20,14 @@ Dataset: [Download Here]( )
 - PowerPoint
 
 
+
+## Project
 ### Part 1 Data preparation and customer analytics
 ![Screenshot 2024-05-27 103046](https://github.com/Suifengyuan78/Data-Analytics/assets/167149285/db4c3e67-fc90-44b9-81b4-b91bba76c3be)
 
 
-### Part 1 Control Store Selection and Analysis
+
+### Part 2 Control Store Selection and Analysis
 
 #### Method: Magnitude Distance Method
 #### Steps:
