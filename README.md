@@ -1,4 +1,4 @@
-# Data-Analytics
+# Data-Analytics (Retail)
 The project analyzes transaction and customer data to identify sales trends and select control stores. Using Power BI, it compares trial stores to controls, highlighting key drivers. Structured using the Pyramid Principles, the report includes visualizations and strategic recommendations to enhance the client’s operations and sales performance.
 
 #### Company : <img width="163" alt="image" src="https://github.com/Suifengyuan78/Data-Analytics/assets/167149285/596a1013-ed24-4f0a-8d9e-9975630da463">
