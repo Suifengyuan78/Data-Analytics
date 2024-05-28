@@ -6,8 +6,8 @@ The project analyzes transaction and customer data to identify sales trends and 
 
 
 ## Data Source
-Dataset: [Download Here](https://cdn.theforage.com/vinternships/companyassets/32A6DqtsbF7LbKdcq/QVI_transaction_data.xlsx
-https://cdn.theforage.com/vinternships/companyassets/32A6DqtsbF7LbKdcq/QVI_purchase_behaviour.csv )
+Dataset: [Download Here QVI Transaction Data (https://cdn.theforage.com/vinternships/companyassets/32A6DqtsbF7LbKdcq/QVI_transaction_data.xlsx
+QVI Purchase Behaviour https://cdn.theforage.com/vinternships/companyassets/32A6DqtsbF7LbKdcq/QVI_purchase_behaviour.csv )]
 
 ## Skills
 - Analyze transaction and customer data to identify trends and inconsistencies. 
